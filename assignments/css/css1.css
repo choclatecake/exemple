@@ -1,0 +1,21 @@
+h1{
+	color: #8B4513;
+	font-family: cursive;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+body{
+	background-color:#E9967A;
+	
+}
+h2{
+	color: #800000 ;
+	text-decoration: underline;
+
+}
+footer{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
